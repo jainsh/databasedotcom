@@ -1,3 +1,5 @@
+# https://github.com/rails/rails/issues/14664
+require 'active_support'
 require 'active_support/core_ext'
 
 require 'databasedotcom/version'
